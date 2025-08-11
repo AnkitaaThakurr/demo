@@ -7,3 +7,6 @@ def second(a,b):
     return a*b
 def dataa():
     print("hehehe")
+def bottle():
+    print("bottle:")
+
