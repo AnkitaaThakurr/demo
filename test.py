@@ -5,3 +5,5 @@ message = say_hello("Ankita")
 print(message) 
 def second(a,b):
     return a*b
+def dataa():
+    print("hehehe")
