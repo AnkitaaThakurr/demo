@@ -9,4 +9,5 @@ def dataa():
     print("hehehe")
 def bottle():
     print("bottle:")
-
+def water():
+    print("water in bottle")
